@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+ html , 
+ body{
+ width: 100%;
+    min-height: 100%;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: white;
+ }
+#top{
+    background-color: rgb(25, 25, 143);
+    text-align: center;
+    height:20% ;
+    width: 100%;
+     padding: 40px;
+
+}
+#top h1{
+    color: white;
+        margin-bottom: 10px;
+
+
+}
+#top p{
+    color: white;
+        font-size: 18px;
+
+}
+#border{
+     width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+background-color: #cabb98;
+}
+#border h3{
+padding-bottom: 20px;
+}
+#border p{
+          margin: 10px 0;
+}
+#Edu{
+    
+width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+background-color: #a5c7e4;
+}
+#Edu h2{
+    padding-bottom: 20px;
+}
+#Edu p{
+    margin:  0;
+}
+#skil{
+    width: 80%;
+     margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+background-color: hsl(74, 54%, 77%);
+}
+#skil h2{
+        padding-bottom: 20px;
+}
+#skil p{
+   margin:  0; 
+}
+#project{
+    width: 80%;
+     margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+background-color: hwb(288 65% 11%);
+}
+#project h2{
+      padding-bottom: 20px;
+}
+#project p{
+   margin:  0;   
+}
+#cont{
+     width: 80%;
+     margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+background-color: lab(87.77% -43.75 47.93);
+}
+#cont h2{
+    padding-bottom: 20px;
+}
+#cont p{
+    margin:  0;    
+}
